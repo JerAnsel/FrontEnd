@@ -26,9 +26,11 @@ nav a{
     color: black;
 }
 
+
 .button {
     background-color: #007cff;
     box-sizing: border-box;
+    line-height: 30px;
     color: white;
     border-radius: 4px;
     padding: 2px 10px;
